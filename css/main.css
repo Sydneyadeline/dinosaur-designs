@@ -17,7 +17,7 @@ img {
 h1, h2 {
   color: #5d8432;
   text-transform: uppercase;
-  font-family: Georgia, serif;
+  font-family: "Patua One", serif;
 }
 
 figcaption {
@@ -29,7 +29,7 @@ figcaption {
 nav {
   font-size: 1.124rem;
   font-weight: bold;
-  font-family: Georgia, serif;
+  font-family: "Patua One", serif;
 }
 
 nav ol {
